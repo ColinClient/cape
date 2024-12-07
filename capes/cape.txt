@@ -1,4 +1,4 @@
 Hamburger49:bkgroup
-Hamburger48:Argentyna
-Bezol:Argentyna
-Bananek9983:Argentyna
+Hamburger48:argentyna
+Bezol:argentyna
+Bananek9983:argentyna
